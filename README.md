@@ -11,9 +11,11 @@ The client provided an excel document containing table numbers are columnes and 
 
 ## Setup
 
-To use this program, put an excel sheet in the `./data` directory.  The excel sheet must be in the following format:
+To use this program, add your excel sheet to the `./data` directory.  The excel sheet must be in the following format:
 
 ![image](https://github.com/alianza-dev/cm-cross-platform/assets/82110542/b85dffc5-a4df-4fbe-9ca7-d2f6318dc959)
+
+Be sure to rename your excel sheet to `chart.xlsx` otherwise the code will not work.  You can also choose the edit the existing `chart.xlsx` in the `./data` directory.  
 
 ## Run
 
